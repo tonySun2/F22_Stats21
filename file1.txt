@@ -1,1 +1,6 @@
+
 this is my txt file 
+
+a new line 
+
+and a new line
