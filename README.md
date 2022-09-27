@@ -1,2 +1,2 @@
 # F22_Stats21
-UCLA STATS 21
+this is my UCLA STATS21 repo
